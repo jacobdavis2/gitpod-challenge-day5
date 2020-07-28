@@ -11,3 +11,16 @@
 /workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.dll
 /workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.pdb
 /workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.genruntimeconfig.cache
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge.deps.json
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge.runtimeconfig.json
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge.runtimeconfig.dev.json
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge.dll
+/workspace/gitpod-challenge-day5/Challenge/bin/Debug/netcoreapp3.1/Challenge.pdb
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.csprojAssemblyReference.cache
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.csproj.CoreCompileInputs.cache
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.AssemblyInfoInputs.cache
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.AssemblyInfo.cs
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.dll
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.pdb
+/workspace/gitpod-challenge-day5/Challenge/obj/Debug/netcoreapp3.1/Challenge.genruntimeconfig.cache

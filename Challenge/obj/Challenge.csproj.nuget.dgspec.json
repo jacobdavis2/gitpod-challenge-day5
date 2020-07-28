@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/github-netconsole-base/Challenge/Challenge.csproj": {}
+    "/workspace/gitpod-challenge-day5/Challenge/Challenge.csproj": {}
   },
   "projects": {
-    "/workspace/github-netconsole-base/Challenge/Challenge.csproj": {
+    "/workspace/gitpod-challenge-day5/Challenge/Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/github-netconsole-base/Challenge/Challenge.csproj",
+        "projectUniqueName": "/workspace/gitpod-challenge-day5/Challenge/Challenge.csproj",
         "projectName": "Challenge",
-        "projectPath": "/workspace/github-netconsole-base/Challenge/Challenge.csproj",
+        "projectPath": "/workspace/gitpod-challenge-day5/Challenge/Challenge.csproj",
         "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/github-netconsole-base/Challenge/obj/",
+        "outputPath": "/workspace/gitpod-challenge-day5/Challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gitpod/.nuget/NuGet/NuGet.Config"
